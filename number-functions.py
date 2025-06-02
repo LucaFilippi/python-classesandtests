@@ -10,3 +10,8 @@ print(round(8.3))
 
 print (math.floor(8.2))
 print (math.floor(8.8))
+print (math.ceil(8.8))
+print (math.ceil(8.2))
+
+print (math.sqrt(2))
+
