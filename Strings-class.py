@@ -21,3 +21,6 @@ print(lower_string.isupper())
 print(my_string.strip())
 
 print(my_string.replace("AnY", "my"))
+
+new_string = "line 1, \nline 2, \nline 3."
+print(new_string)
